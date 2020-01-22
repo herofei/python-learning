@@ -1,0 +1,1 @@
+@py.exe F:\python-learning\code\print.py
